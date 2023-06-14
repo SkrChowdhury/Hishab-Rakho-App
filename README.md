@@ -50,4 +50,4 @@ or npm
 3. Redux, Redux Toolkit,
 4. Moment.js
 
-<p align="center" bold> <b>Sakkar Chowdhury</b></p>
+<p align="center" bold> Build By <b>Sakkar Chowdhury</b></p>

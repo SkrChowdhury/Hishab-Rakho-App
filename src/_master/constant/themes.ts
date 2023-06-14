@@ -13,14 +13,14 @@ export const SIZES = {
 };
 
 export const COLORS = {
-  gray: '#334155',
-  grayLight: '#e2e8f0',
+  gray: '#1b4332',
+  grayLight: '#57cc99',
   placeholder: '#94a3b8',
   white: 'white',
   borderColor: '#cbd5e1',
   borderColorLight: '#e2e8f0',
   borderColorDark: '#475569',
-  modalUnderBgColor: '#121E4499',
+  modalUnderBgColor: '#1b4332',
 };
 
 const appTheme = {COLORS, SIZES};
