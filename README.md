@@ -38,10 +38,13 @@ or npm
 ### Technical Features
 
 1. react-native Version 0.68.1
-2. Redux for data handling with async storage
-3. Proper native Splash Screen implement (Android only)
-4. App Icon setup (Android/iOS)
-5. Run on both Android and iOS
+2. node Version 18.16.0
+3. JDK 11
+4. npm version 9.7.1
+5. Redux for data handling with async storage
+6. Proper native Splash Screen implement
+7. App Icon setup (Android/iOS)
+8. Run on both Android and iOS
 
 ### Tech Used
 
