@@ -1,4 +1,7 @@
 # <p  align="center">Hishab Rakho Mobile Application</p>
+<p align="center">
+  <img src="/assets/hishabRakho.png" width="350" title="hover text">
+</p>
 
 ### Installation
 
